@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { useRef } from "react";
 import { cn } from "@/lib/utils";
 import { SparklesCore } from "./sparkles";
-
+//
 export const Cover = ({
   children,
   className,
