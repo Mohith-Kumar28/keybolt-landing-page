@@ -20,7 +20,7 @@ export default function Home() {
         >
           <Image alt="logo" src="/logo.png" width={100} height={100} />
           <div className="text-3xl md:text-7xl mt-6 font-bold dark:text-white text-center">
-           ~ Under Maintenance ~
+            Under Maintenance ~
           </div>
           <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
             Will be back soon!!
